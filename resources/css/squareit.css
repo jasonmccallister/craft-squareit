@@ -1,0 +1,3 @@
+#nav li a.sel, div.pane, .tabs .tab.sel, .btn, .btn-group, body.ltr .sidebar nav li a.sel, #footer #upgradepromo a, .matrixblock, .lightswitch, .handle, .lightswitch > .label {
+border-radius: 0;
+}
